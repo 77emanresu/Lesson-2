@@ -1,0 +1,27 @@
+.red{display:block;
+    width:360px;
+height:360px;
+background-color:red;
+position:absolute;
+top:5%;
+left:32%;
+}
+.green{display:block;
+    width:360px;
+height:360px;
+background-color:green;
+position:absolute;
+top:20%;
+left:40%;
+z-index:12;
+    
+    
+}
+.blue{display:block;
+    width:360px;
+height:360px;
+background-color:dodgerblue;
+position:absolute;
+top:35%;
+left:48%;
+}

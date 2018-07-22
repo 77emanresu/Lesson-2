@@ -1,0 +1,14 @@
+table{text-align: center;
+    border-spacing: 5px;}
+
+.blue {height:216px;
+    background-color: aqua;}
+
+.grey{background-color:dimgrey;
+    width:25%;
+    height:162px;}
+
+.yellow{background-color:yellow; 
+    height:432px;}
+
+th{height:108px;}
